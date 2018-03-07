@@ -1,3 +1,3 @@
 # exercise-repo
 exercise-repo
-but this is other text!!!
+We resolved the conflict
